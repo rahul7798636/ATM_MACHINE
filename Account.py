@@ -121,6 +121,3 @@ atm.add_customer(acc2)
 # atm.withdraw()  
 # atm.deposit()  
 # atm.check_balance() 
-git --version
-git init
-
